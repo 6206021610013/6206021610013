@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Non
 - 👀 I’m interested in Full-Stack Developer
 - 🌱 I’m currently learning King Mongkut's University of Technology North Bangkok
-- 📚 I’m currently developing the ability to use various frameworks including Angular.js, React.js, Vue.js, Node.js, Go.
+- 📚 I’m currently developing the ability to use various frameworks including Angular.js, React.js, Vue.js, Node.js.
 - 📫 How to reach me s6206021610013@email.kmutnb.ac.th
 
 <!---
