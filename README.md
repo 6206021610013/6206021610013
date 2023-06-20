@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Non
-- 👀 I’m interested in Back-end Developer
-- 🌱 I’m currently graduate King Mongkut's University of Technology North Bangkok, (Information Technology) major of Software Engineer
+- 👀 I’m interesting in Back-end Developer
+- 🌱 I’m currently graduate from King Mongkut's University of Technology North Bangkok, (Information Technology) major of Software Engineer
 - 📚 I’m currently developing the ability to use various frameworks including Angular.js, React.js, Vue.js, Node.js.
 - 📫 How to reach me s6206021610013@email.kmutnb.ac.th
 
